@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+background: rgb(196, 182, 182);
+/* border-radius: 30px; */
+box-shadow: 8px 10px 22px red;
+padding-bottom: 20px;
+}
+label{
+    font-size: 1.5em;
+}
+.up h1{
+    font-size: 3rem;
+    color: rgb(2, 1, 0);
+    font-weight: 700;
+    padding-bottom: 30px;
+    font-family: 'Rye', cursive;
+
+
+}
+ .form-group{ 
+    padding-left: 90px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+} 
+.item1{
+
+    padding-left: 140px;
+    padding-top: 20px;
+}
+.item2{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.item3{
+    padding-left: 140px;
+     
+     padding-bottom: 20px;
+    padding-top: 20px;
+}
+.item4{
+    padding-left: 140px;
+    
+    }
+   .item5{
+        padding-left: 20px;
+        
+    }
+    .item6{
+        padding-left: 140px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+   
+.logo{
+    height: 80px !important;
+}
+body{
+    background: rgb(255, 253, 255);
+    
+}
+/* .inp{ 
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 4px 6px 9px 6px rgba(0,0,0,0.61);
+-webkit-box-shadow: 4px 6px 9px 6px rgba(0,0,0,0.61);
+-moz-box-shadow: 4px 6px 9px 6px rgba(0,0,0,0.61);
+}*/
+.btn1{
+    height: 50px;
+    width: 50%;
+
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 500;
+    background-color: rgb(93, 75, 255);
+    
+}
+.btn1:hover
+{
+    background: rgb(252, 172, 0);
+    color: rgb(255, 0, 0);
+}
